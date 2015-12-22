@@ -1,0 +1,18 @@
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Business\bin\Debug\Business.dll
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Business\bin\Debug\Business.pdb
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Business\obj\Debug\Business.dll
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Business\obj\Debug\Business.pdb
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Business\bin\Debug\DataAccess.dll
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Business\bin\Debug\Entity.dll
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Business\bin\Debug\DataAccess.pdb
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Business\bin\Debug\Entity.pdb
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\Bitministry\Business\bin\Debug\Business.dll
+D:\Bitministry\Business\bin\Debug\Business.pdb
+D:\Bitministry\Business\bin\Debug\DataAccess.dll
+D:\Bitministry\Business\bin\Debug\Entity.dll
+D:\Bitministry\Business\bin\Debug\DataAccess.pdb
+D:\Bitministry\Business\bin\Debug\Entity.pdb
+D:\Bitministry\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\Bitministry\Business\obj\Debug\Business.dll
+D:\Bitministry\Business\obj\Debug\Business.pdb

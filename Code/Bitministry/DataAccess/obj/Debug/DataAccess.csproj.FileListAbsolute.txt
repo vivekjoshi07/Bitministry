@@ -1,0 +1,14 @@
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\DataAccess\bin\Debug\Entity.dll
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\DataAccess\bin\Debug\Entity.pdb
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Bitministry\DataAccess\bin\Debug\DataAccess.dll
+D:\Bitministry\DataAccess\bin\Debug\DataAccess.pdb
+D:\Bitministry\DataAccess\bin\Debug\Entity.dll
+D:\Bitministry\DataAccess\bin\Debug\Entity.pdb
+D:\Bitministry\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Bitministry\DataAccess\obj\Debug\DataAccess.dll
+D:\Bitministry\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,9 @@
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Entity\bin\Debug\Entity.dll
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Entity\bin\Debug\Entity.pdb
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Entity\obj\Debug\Entity.dll
+C:\Users\viv20\Documents\Visual Studio 2013\Projects\Bitministry\Entity\obj\Debug\Entity.pdb
+D:\Bitministry\Entity\bin\Debug\Entity.dll
+D:\Bitministry\Entity\bin\Debug\Entity.pdb
+D:\Bitministry\Entity\obj\Debug\Entity.dll
+D:\Bitministry\Entity\obj\Debug\Entity.pdb
+D:\Bitministry\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
